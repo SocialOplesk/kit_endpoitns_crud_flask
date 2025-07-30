@@ -5,6 +5,15 @@
 # Guía rápida del funcionamiento de los endpoints
 Esta guía proporciona pasos simples y ejemplos concretos para quienes comienzan a crear Endpoints.
 
+Instalar las siguientes librerias:
+```
+pip install flask
+
+pip install flask-cors
+
+pip install requests
+```
+<br>
 
 ## 1. query, params, body
 ```
