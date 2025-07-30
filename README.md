@@ -2,7 +2,7 @@
 ### 
 <br/>
 
-# Guía Rápida del funcionamiento de los endpoints
+# Guía rápida del funcionamiento de los endpoints
 Esta guía proporciona pasos simples y ejemplos concretos para quienes comienzan a crear Endpoints.
 
 
